@@ -6,7 +6,7 @@ This app is developed using JAVASCRIPT framwork which is NODE JS with africastal
 https://simulator.africastalking.com:1517/
 
 - To login to the simualtor use your opay registered number:
-- To access the ussd use: [*384*2882#]
+- To access the ussd use: ```[*384*2882#]```
 
 
 
