@@ -8,6 +8,11 @@ https://simulator.africastalking.com:1517/
 - To login to the simualtor use your opay registered number:
 - To access the ussd use: ```[*384*2882#]```
 
+| USSD APP Features                            |
+| --------------------------------------------:| 
+| Transfer to bank                             | 
+| Transfer to user opay account                |   
+
 
 
 
