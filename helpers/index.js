@@ -6,9 +6,9 @@ module.exports.postReq = (callback, data) => {
 		path: '/api/v3/info/user',
 		method: 'POST',
 		headers: {
-			'Authorization': 'Bearer ' + process.env.PUBLIC_KEY,
+			'Authorization': 'Bearer OPAYPUB16058867969410.845683751701366',
 			'content-type': 'application/json',
-			'MerchantId': process.env.MERCHANT_ID,
+			'MerchantId': '256620112018036',
 		},
 	};
 	console.log(data);
