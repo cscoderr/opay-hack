@@ -39,15 +39,14 @@ router.post('/', (req, res) => {
 								response = 'END Please enter a valid account number';
 							}
 						}  else if(inputs.length == 3 && inputs[2] != undefined && inputs[2] != '') {
-
 						}
 					}
 				}
 			}
 			res.setHeader('Content-type', 'text/plain');
 			res.send(response);
-		}
+		}, data);
 	}
-}
+});
 
 module.exports = router;
