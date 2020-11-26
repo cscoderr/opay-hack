@@ -1,13 +1,13 @@
 const express = require('express');
 const http = require('http');
 const mainRoutes = require('./routes/index');
-const env = require('dotenv');
+//const env = require('dotenv');
 const middlewares = require('./middlewares/index');
 const app = express();
 const server = http.createServer(app);
 
 middlewares(app);
-env.config();
+//env.config();
 
 app.use('/', mainRoutes);
 
