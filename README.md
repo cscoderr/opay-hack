@@ -13,6 +13,8 @@ https://simulator.africastalking.com:1517/
 | Transfer to bank                             | 
 | Transfer to user opay account                |   
 
-
+<p>
+<img src="image/image.JPEG" width="50%"/>
+</p>
 
 
